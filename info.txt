@@ -1,0 +1,96 @@
+
+###### Generation: 1 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 2 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 3 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 4 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 5 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 6 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 7 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
+
+###### Generation: 8 ######
+Total Blocks: 0 Percentage: 0.0
+Total Beehive: 0 Percentage: 0.0
+Total Loafs: 0 Percentage: 0.0
+Total Boats: 0 Percentage: 0.0
+Total Tubs: 0 Percentage: 0.0
+Total Blinkers: 2 Percentage: 66.66666666666667
+Total Toads: 0 Percentage: 0.0
+Total Beacons: 0 Percentage: 0.0
+Total Gliders: 0 Percentage: 0.0
+Total Light-weight spaceship: 1 Percentage: 33.333333333333336
